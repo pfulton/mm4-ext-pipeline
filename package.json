@@ -1,0 +1,16 @@
+{
+  "name": "mm4-ext-pipeline",
+  "version": "0.1.0",
+  "description": "An example of using Middleman v4's external pipeline",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Patrick Fulton",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.0.1"
+  }
+}
